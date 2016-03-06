@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfs.client.net\bin\Debug\fastdfs.client.net.dll
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfs.client.net\bin\Debug\fastdfs.client.net.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfs.client.net\obj\Debug\fastdfs.client.net.dll
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfs.client.net\obj\Debug\fastdfs.client.net.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfs.client.net\bin\Debug\fastdfs.client.net.dll
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfs.client.net\bin\Debug\fastdfs.client.net.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfs.client.net\obj\Debug\fastdfs.client.net.dll
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfs.client.net\obj\Debug\fastdfs.client.net.pdb

@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfstest\bin\Debug\fastdfstest.exe
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfstest\bin\Debug\fastdfstest.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfstest\obj\Debug\fastdfstest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfstest\obj\Debug\fastdfstest.exe
+c:\users\administrator\documents\visual studio 2012\Projects\fastdfs\fastdfstest\obj\Debug\fastdfstest.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\obj\Debug\fastdfstest.exe
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\obj\Debug\fastdfstest.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\bin\Debug\fastdfstest.exe
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\bin\Debug\fastdfstest.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\bin\Debug\fastdfs.client.net.dll
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\bin\Debug\fastdfs.client.net.pdb
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\obj\Debug\fastdfstest.csprojResolveAssemblyReference.cache
+C:\Users\zhouyuhua\Downloads\fastdfs\fastdfstest\bin\Debug\fdfs.conf
